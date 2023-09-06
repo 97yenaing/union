@@ -5,10 +5,8 @@ use App\Http\Controllers\AdminController;
 use App\Http\Controllers\PatientsController;
 
 use App\Providers\AppServiceProvider;
-//use App\Exports\StimaleExport;
 
 use Maatwebsite\Excel\Facades\Excel;
-//use App\Exports\LabExport;
 
 
 
