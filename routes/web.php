@@ -39,7 +39,7 @@ Route::post('Admin/viewUser', [AdminController::class,'user_process'])->name('us
 
 
 
-Route::get('Patients/export', [PatientsController::class, 'export_patient']); // excel
+Route::get('Patients/export', [PatientsController::class, 'export_patient']);
 
 
 
