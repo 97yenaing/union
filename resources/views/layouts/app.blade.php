@@ -63,7 +63,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="{{url('Patients/pt_process')}}">Patients process</a></li>
 
-                                    <li><a class="dropdown-item" href="{{url('Patients/export')}}">Patients Export</a></li>
+                                    <li><a class="dropdown-item" href="{{url('Patients/export')}}">Patients Exports</a></li>
                                 </ul>
                                 </li>
                             </ul>
