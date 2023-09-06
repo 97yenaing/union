@@ -65,8 +65,8 @@ CREATE TABLE `patients` (
 --
 
 INSERT INTO `patients` (`id`, `name`, `phone`, `email`, `age`, `address`, `township`, `created_at`, `updated_at`) VALUES
-(1, 'yenaing1', '123423225556', 'djhfdj@kdkdyebu', 12, 'dfsdfadfafatttttttttttttttttttttttt', 'MingalarDon', '2023-09-05 07:27:01', '2023-09-05 20:14:47'),
-(2, 'yenaing', '12342322', 'djhfdj@kdkd', 13, 'dfsdfadfafa', 'Insein', '2023-09-05 07:28:18', '2023-09-05 07:28:18'),
+(1, 'toto', '123423225556', 'djhfdj@kdkdyebu', 12, 'dfsdfadfafatttttttttttttttttttttttt', 'MingalarDon', '2023-09-05 07:27:01', '2023-09-05 20:14:47'),
+(2, 'pepe', '12342322', 'djhfdj@kdkd', 13, 'dfsdfadfafa', 'Insein', '2023-09-05 07:28:18', '2023-09-05 07:28:18'),
 (3, 'mg mg', '12342322', 'djhfdj@kdkd', 13, 'dfsdfadfafa', 'Insein', '2023-09-05 07:28:52', '2023-09-05 07:28:52'),
 (4, 'ko ko', '12342322', 'djhfdj@kdkd', 13, 'dfsdfadfafa', 'Insein', '2023-09-05 07:29:00', '2023-09-05 07:29:00'),
 (5, 'tu tu', '12342322', 'djhfdj@kdkd', 13, 'dfsdfadfafa', 'Insein', '2023-09-05 07:29:06', '2023-09-05 07:29:06');
